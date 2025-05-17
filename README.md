@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, coffee first, then the day ☕✨
+
+
 
 <!--
 **Hamza-Taweel/Hamza-Taweel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
